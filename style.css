@@ -824,6 +824,9 @@ body {
     .header-container {
         padding: 0 10px;
     }
+    .feature-text  h2{
+        display: flex;
+    }
 
     .member-btn {
         width: 100%;
